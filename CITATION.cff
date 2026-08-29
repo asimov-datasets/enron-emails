@@ -1,0 +1,24 @@
+# See: https://github.com/citation-file-format/citation-file-format/blob/1.2.0/schema-guide.md
+---
+cff-version: 1.2.0
+title: Enron Emails Graph
+message: >-
+  If you use this dataset, please cite it using the metadata from this file.
+type: dataset
+authors:
+  - given-names: Arto
+    family-names: Bendiken
+    affiliation: ASIMOV Systems
+    alias: artob
+    website: https://github.com/artob
+    orcid: https://orcid.org/0009-0002-0725-4874
+repository-code: https://github.com/asimov-datasets/enron-emails
+url: https://www.cs.cmu.edu/~enron/
+abstract: >-
+  A knowledge graph of 500K+ email messages from/to Enron staff.
+keywords:
+  - enron
+  - email
+  - rdf
+  - dataset
+license: CC0-1.0

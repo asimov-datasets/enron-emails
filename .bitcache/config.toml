@@ -1,0 +1,9 @@
+# See: https://bitcache.dev/#configuration-file
+
+[bitcache]
+version = 0
+hashing = "blake3"
+capacity = "500K"
+
+[bitcache.compact]
+compress = "xz:best"
